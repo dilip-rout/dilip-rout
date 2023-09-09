@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+	<Variable
+		Comment=""
+	Name="CompanyName">Dilip Rout</Variable>
+	<Variable
+		Comment=""
+	Name="PhoneNumber">+91 964 223 2971</Variable>
+	<Variable
+		Name="StreetAddress"
+		Comment=""
+		Definition="Some text"
+	OriginalName="StreetAddress">Hyderabad</Variable>
+	<Variable
+		Name="ProductName"
+		Comment=""
+	OriginalName="ProductName"></Variable>
+	<Variable
+		Name="Fax"
+		Comment=""
+	OriginalName="Fax">Fax 123-987-654</Variable>
+	<Variable
+		Name="CityStateZip"
+		Comment=""
+		Definition="Some text"
+	EvaluatedDefinition="Hyd">Telangana, IND 500 015</Variable>
+	<Variable
+		Name="Year"
+		Comment=""
+		Type="DateTime"
+		LastUpdated="2016-02-16T18:02:51.1357833-08:00"
+	EvaluatedDefinition="yyyy">yyyy</Variable>
+	<Variable
+		Name="Email"
+		Comment=""
+	EvaluatedDefinition="infomail@dot.com">connect@diliprout.in</Variable>
+	<Variable
+		Name="Instagram"
+		Comment=""
+	EvaluatedDefinition="https://www.instagram.com">https://www.instagram.com</Variable>
+	<Variable
+		Name="LinkedIn"
+		Comment=""
+	EvaluatedDefinition="https://www.linkedin.com/company/69797/">https://www.linkedin.com/company/</Variable>
+	<Variable
+		Name="Facebook"
+		Comment=""
+	EvaluatedDefinition="http://www.facebook.com/madcapdocteam">http://www.facebook.com/</Variable>
+	<Variable
+		Name="Twitter"
+		Comment=""
+	EvaluatedDefinition="https://twitter.com/#!/MadCapDocTeam">https://twitter.com/#!/</Variable>
+</CatapultVariableSet>
